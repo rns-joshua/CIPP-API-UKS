@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippukyfmao-proc'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_23EB403B55B546AABC10BBBEF3236214 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7424B4C741934D49A33C0F6E9DB1CA9B }}
